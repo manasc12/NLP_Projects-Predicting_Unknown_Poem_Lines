@@ -5,5 +5,5 @@
 - There are 5 types of News Headlines we have choosen i.e.:
   - 'sport': 1, 'business': 2, 'politics': 3,  'tech': 4, 'entertainment': 5
   - ![NLP_BBC_Embedding_Vectors_Projection_PCA](bbc_nlp.gif)
-### 2. Using Bi-directional LSTM RNN to predict incomplete poem lines of Shakespeare
+### 2. Predict incomplete poem lines of Shakespeare using Bi-directional LSTM RNN 
 - Notebook name: **NLP_Project2_Shakespeare_Poem_Prediction.ipynb**
